@@ -1,0 +1,22 @@
+{
+    "name": "reporter",
+    "author": {
+      "name": "DNSBL.im",
+      "email": "open-source@dnsbl.im",
+      "url": "https://www.dnsbl.im/en/projects/reporter",
+      "homepage": "https://www.dnsbl.im/"
+    },
+    "description": "A spam reporting bot",
+    "version": "0.0.1",
+    "main": "app.js",
+    "dependencies": {
+      "irc-framework":"^3.1.0",
+      "url":"^0.11.0",
+      "http":"^0.0.0",
+      "https":"^1.0.0",
+      "ip-validator":"^0.0.1",
+      "chomp":"^0.0.1",
+      "request-promise":"^4.2.2"
+    }
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "irc":{
+        "hostname":"irc.buddy.im",
+        "port":6697,
+        "ssl":true,
+        "nickname":"MyReporterBot",
+        "channel":"#mychannel"
+    },
+    "api":{
+        "key": "MY-API-KEY"
+    },
+    "admins":[
+        "MyNickservUsername",
+        "AnotherNickservUsername"
+    ],
+    "debug":false
+}
